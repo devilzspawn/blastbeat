@@ -1,2 +1,3 @@
 newhellofiles;
 добавил функционал для переноса в мастер
+new console hello;
